@@ -1,0 +1,4 @@
+Keyence KV Studio and VT Studio must be downloaded and installed beforehand. Both software packages are available free of charge. To download them from the official website, you will need to obtain a password from your local Keyence representative. No payment is required, and no serial numbers are needed during installation.
+
+official downloaded link:
+https://www.keyence.com.tw/support/user/controls/installer/?_ga=2.209357522.1187552481.1643000130-1923290714.1643000130#dl02
